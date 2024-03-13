@@ -1,0 +1,167 @@
+/* home section start */
+.--bs-body-color{
+background-color: rgb(40, 27, 27);
+}
+.link{
+    text-align: center;
+    margin:20px;
+background-color:white;
+border-radius: 20px;
+box-sizing:2px;
+}
+.link a:hover{
+ background-color:#b2744c;
+}
+.social-link{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.fa-brands{
+  color:white;  
+}
+
+  /* home section end */
+
+    /* menu section start */
+    #menu{
+        width:100%;
+        margin-top: 60px;
+    }
+    .heading3{
+        text-align: center;
+        font-size: 30px;
+        color: #b2744c;
+        font-weight: bold;
+        border-bottom: 2px solid #b2744c;
+
+    }
+    #container2{
+        margin-top: 50px;
+
+    }
+    #menu .card{
+        box-shadow: rgba(149, 157, 165, 0.2)0px 8px 24px;
+    }
+.star i{
+    color: #b2744c;
+}
+#menu h3{
+    text-align: center;
+    color: #b2744c;
+    margin-top: 10px;
+    font-size: 25px;
+}
+#menu p{
+    font-size: 16px;
+    color: #b2744c;
+    padding-top: 10px;
+}
+#menu p span{
+    float:right;
+    cursor: pointer;
+}
+ /* menu section end */
+
+/* product section start */
+
+#product{
+    width: 100%;
+}
+.heading4{
+    text-align: center;
+    color: #b2744c;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 100px;
+    border-bottom: 1px solid #b2744c;
+}
+#container3{
+    margin-top: 30px;
+}
+#product h3{
+    text-align: center;
+    color: #b2744c;
+    font-size: 23px;
+}
+#product p{
+    color: #b2744c;
+    padding-top: 10px;
+}
+#product p span{
+    float:right;
+    cursor: pointer;
+}
+/* product section end */
+
+
+
+
+
+
+
+/* contact start */
+#contact{
+    width:100%;
+    height: 100vh;
+    padding-top:70px;
+}
+#contact .container{
+    width:100%;
+    height:80vh;
+    background: linear-gradient(90 deg, white 80%, rgb(40, 27, 27)20%);
+    border-radius:10px;
+}
+.heading6{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.heading6 span{
+    color:#b2744c;
+}
+#contact p{
+    font-weight: bold;
+    font-size: 13px;
+    color: #b2744c;
+}
+#contact input{
+    width: 360px;
+    border:none;
+    border-bottom: 1px solid #b2744c  ;
+}
+#contact-btn{
+    width: 200px;
+    height: 36px;
+    border: none;
+    background:#b2744c ;
+    color:white ;
+    font-weight: bold;
+    margin-top: 30px;
+    cursor: pointer;
+}
+#col{
+    width: 40%;
+    height: 56vh;
+    background:#b2744c ;
+    margin-top: 78px;
+}
+#contact h1{
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#contact #col p{
+    font-size: 15px;
+    color: white;
+    margin-left:13px ;
+    margin-top: 30px;
+
+}
+/* contact end */
+.navbar a:hover{
+    color: #b2744c;
+    background: rgb(40, 27, 27);
+}
